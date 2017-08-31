@@ -17,7 +17,7 @@ The process for the generation of the final table is described below.
 * First the training and test data sets were merged (these files can be found at "UCI HAR Dataset/train" and "UCI HAR Dataset/test" espectively).
 * The names of the original variables were modified removing innecesary characters (some numbers, spaces, parenthesis,...).
 * A subset of the original variables were selected considering only measurements summarizing the mean and standard deviation.
-* A factors column identifiying the subjects was added to the data set as well as a column identifying the correspondig activity (the original identifying numbers were transformed to factors with descriptive names).
+* A factors column identifiying the subjects was added to the data set as well as a column identifying the corresponding activity (the original identifying numbers were transformed to factors with descriptive names).
 * The final table was constructed grouping the subjects and activities and evaluating the mean of every variable for every group.
 * The table was saved in the file "final_data.txt"
 
