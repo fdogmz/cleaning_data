@@ -25,9 +25,9 @@ The next list describes some of the files in this repo:
 
 1. "final_data.txt" contains the final table.
 2. "CodeBook.md" describes the attributes of the final table
-3. "run_analysis.R" is he script used to generate the final table.
+3. "run_analysis.R" is the script used to generate the final table.
 4. "UCI HAR Dataset\\features_info.txt" describes the attributes of the original data set.
-5. "UCI HAR Dataset\\README.txt" contains informatin about the original study.
+5. "UCI HAR Dataset\\README.txt" contains information about the original study.
 
 
 
