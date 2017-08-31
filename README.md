@@ -1,6 +1,6 @@
 # cleaning_data
 
-This repo contains different files necessary for the evaluation of of the course Getting and Cleaning Data.
+This repo contains different files for the evaluation of the course Getting and Cleaning Data.
 
 The goal of the project was to create a table summarizing the data generated in the study described in
 
