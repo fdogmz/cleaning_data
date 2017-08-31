@@ -14,72 +14,72 @@ In the original experiment a time series of measurements were generated and prep
 
 In the file "final_data.txt", the original data set were grouped in unique (subject, activity) pairs using the mean as a summary statistic for every original variable. The rest of the variables is listed below:
 
-mean_of_t-body-acc-mean-x
-mean_of_t-body-acc-mean-y
-mean_of_t-body-acc-mean-z
-mean_of_t-body-acc-std-x
-mean_of_t-body-acc-std-y
-mean_of_t-body-acc-std-z
-mean_of_t-gravity-acc-mean-x
-mean_of_t-gravity-acc-mean-y
-mean_of_t-gravity-acc-mean-z
-mean_of_t-gravity-acc-std-x
-mean_of_t-gravity-acc-std-y
-mean_of_t-gravity-acc-std-z
-mean_of_t-body-acc-jerk-mean-x
-mean_of_t-body-acc-jerk-mean-y
-mean_of_t-body-acc-jerk-mean-z
-mean_of_t-body-acc-jerk-std-x
-mean_of_t-body-acc-jerk-std-y
-mean_of_t-body-acc-jerk-std-z
-mean_of_t-body-gyro-mean-x
-mean_of_t-body-gyro-mean-y
-mean_of_t-body-gyro-mean-z
-mean_of_t-body-gyro-std-x
-mean_of_t-body-gyro-std-y
-mean_of_t-body-gyro-std-z
-mean_of_t-body-gyro-jerk-mean-x
-mean_of_t-body-gyro-jerk-mean-y
-mean_of_t-body-gyro-jerk-mean-z
-mean_of_t-body-gyro-jerk-std-x
-mean_of_t-body-gyro-jerk-std-y
-mean_of_t-body-gyro-jerk-std-z
-mean_of_t-body-acc-mag-mean
-mean_of_t-body-acc-mag-std
-mean_of_t-gravity-acc-mag-mean
-mean_of_t-gravity-acc-mag-std
-mean_of_t-body-acc-jerk-mag-mean
-mean_of_t-body-acc-jerk-mag-std
-mean_of_t-body-gyro-mag-mean
-mean_of_t-body-gyro-mag-std
-mean_of_t-body-gyro-jerk-mag-mean
-mean_of_t-body-gyro-jerk-mag-std
-mean_of_f-body-acc-mean-x
-mean_of_f-body-acc-mean-y
-mean_of_f-body-acc-mean-z
-mean_of_f-body-acc-std-x
-mean_of_f-body-acc-std-y
-mean_of_f-body-acc-std-z
-mean_of_f-body-acc-jerk-mean-x
-mean_of_f-body-acc-jerk-mean-y
-mean_of_f-body-acc-jerk-mean-z
-mean_of_f-body-acc-jerk-std-x
-mean_of_f-body-acc-jerk-std-y
-mean_of_f-body-acc-jerk-std-z
-mean_of_f-body-gyro-mean-x
-mean_of_f-body-gyro-mean-y
-mean_of_f-body-gyro-mean-z
-mean_of_f-body-gyro-std-x
-mean_of_f-body-gyro-std-y
-mean_of_f-body-gyro-std-z
-mean_of_f-body-acc-mag-mean
-mean_of_f-body-acc-mag-std
-mean_of_f-body-body-acc-jerk-mag-mean
-mean_of_f-body-body-acc-jerk-mag-std
-mean_of_f-body-body-gyro-mag-mean
-mean_of_f-body-body-gyro-mag-std
-mean_of_f-body-body-gyro-jerk-mag-mean
-mean_of_f-body-body-gyro-jerk-mag-std
+* mean_of_t-body-acc-mean-x
+* mean_of_t-body-acc-mean-y
+* mean_of_t-body-acc-mean-z
+* mean_of_t-body-acc-std-x
+* mean_of_t-body-acc-std-y
+* mean_of_t-body-acc-std-z
+* mean_of_t-gravity-acc-mean-x
+* mean_of_t-gravity-acc-mean-y
+* mean_of_t-gravity-acc-mean-z
+* mean_of_t-gravity-acc-std-x
+* mean_of_t-gravity-acc-std-y
+* mean_of_t-gravity-acc-std-z
+* mean_of_t-body-acc-jerk-mean-x
+* mean_of_t-body-acc-jerk-mean-y
+* mean_of_t-body-acc-jerk-mean-z
+* mean_of_t-body-acc-jerk-std-x
+* mean_of_t-body-acc-jerk-std-y
+* mean_of_t-body-acc-jerk-std-z
+* mean_of_t-body-gyro-mean-x
+* mean_of_t-body-gyro-mean-y
+* mean_of_t-body-gyro-mean-z
+* mean_of_t-body-gyro-std-x
+* mean_of_t-body-gyro-std-y
+* mean_of_t-body-gyro-std-z
+* mean_of_t-body-gyro-jerk-mean-x
+* mean_of_t-body-gyro-jerk-mean-y
+* mean_of_t-body-gyro-jerk-mean-z
+* mean_of_t-body-gyro-jerk-std-x
+* mean_of_t-body-gyro-jerk-std-y
+* mean_of_t-body-gyro-jerk-std-z
+* mean_of_t-body-acc-mag-mean
+* mean_of_t-body-acc-mag-std
+* mean_of_t-gravity-acc-mag-mean
+* mean_of_t-gravity-acc-mag-std
+* mean_of_t-body-acc-jerk-mag-mean
+* mean_of_t-body-acc-jerk-mag-std
+* mean_of_t-body-gyro-mag-mean
+* mean_of_t-body-gyro-mag-std
+* mean_of_t-body-gyro-jerk-mag-mean
+* mean_of_t-body-gyro-jerk-mag-std
+* mean_of_f-body-acc-mean-x
+* mean_of_f-body-acc-mean-y
+* mean_of_f-body-acc-mean-z
+* mean_of_f-body-acc-std-x
+* mean_of_f-body-acc-std-y
+* mean_of_f-body-acc-std-z
+* mean_of_f-body-acc-jerk-mean-x
+* mean_of_f-body-acc-jerk-mean-y
+* mean_of_f-body-acc-jerk-mean-z
+* mean_of_f-body-acc-jerk-std-x
+* mean_of_f-body-acc-jerk-std-y
+* mean_of_f-body-acc-jerk-std-z
+* mean_of_f-body-gyro-mean-x
+* mean_of_f-body-gyro-mean-y
+* mean_of_f-body-gyro-mean-z
+* mean_of_f-body-gyro-std-x
+* mean_of_f-body-gyro-std-y
+* mean_of_f-body-gyro-std-z
+* mean_of_f-body-acc-mag-mean
+* mean_of_f-body-acc-mag-std
+* mean_of_f-body-body-acc-jerk-mag-mean
+* mean_of_f-body-body-acc-jerk-mag-std
+* mean_of_f-body-body-gyro-mag-mean
+* mean_of_f-body-body-gyro-mag-std
+* mean_of_f-body-body-gyro-jerk-mag-mean
+* mean_of_f-body-body-gyro-jerk-mag-std
 
 They correspond to the mean values, for every (subject,activity) combination, of the next original variables:
 
