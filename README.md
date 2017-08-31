@@ -21,7 +21,7 @@ The process for the generation of the final table is described below.
 * The final table was constructed grouping the subjects and activities and evaluating the mean of every variable for every group.
 * The table was saved in the file "final_data.txt"
 
-Te next list describes some of the files in this repo:
+The next list describes some of the files in this repo:
 
 1. "final_data.txt" contains the final table.
 2. "CodeBook.md" describes the attributes of the final table
