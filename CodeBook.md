@@ -1,7 +1,7 @@
 Variables description
 =================
 
-All variables in the "final_data.txt" data set represent a summary of those contained in the files:
+All variables in the "final_data.txt" table represent a summary of those contained in the files:
 
 * "UCI HAR Dataset\\train\\X_train"
 * "UCI HAR Dataset\\train\\y_train" 
@@ -101,7 +101,7 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-These variables are described are described in the "features_info.txt" file.
+These variables are described in the "features_info.txt" file.
 
 
 
